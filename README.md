@@ -1,2 +1,5 @@
 # udemig
-README.md -text
+<h2> SCREEN </h2>
+
+![](screen.gif)
+
